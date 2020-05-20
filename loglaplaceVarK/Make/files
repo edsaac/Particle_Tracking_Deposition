@@ -1,0 +1,3 @@
+loglaplaceVarK.C
+
+EXE = $(FOAM_APPBIN)/loglaplaceVarK
